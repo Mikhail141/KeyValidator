@@ -13,9 +13,11 @@
 * Руководство использования;
 ### В качестве тестовых данных использовались данные:
 * файл для установки OpenJDK11   adoptopenjdk.net.(Приложение запускается и совместимо с Java 11 )
-* файл для установки  KeyValidator https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class (Приложение работает согласно руководству использования)
+* файл для установки  KeyValidator https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class (файл скачивается и приложение устанавливается)
 
 ### Тестирование производилось в следующем окружении:
- OC-Windows 10, версия 1909,разрядность-64 разрядная операционная система,Java версия- "11.0.8" 2020-07-14, браузер Google Chrome-версия 85.0.4183.83 , (64 бит)
+ * OC-Windows 10, версия 1909,разрядность-64 разрядная операционная система,
+ * Java версия- "11.0.8" 2020-07-14, 
+ * браузер Google Chrome-версия 85.0.4183.83 , (64 бит)
 
  
